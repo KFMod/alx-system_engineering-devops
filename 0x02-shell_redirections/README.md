@@ -1,1 +1,1 @@
-display the third line of the file iacta
+display content of /etc/passwd /etc/hosts
